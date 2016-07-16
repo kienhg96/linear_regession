@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear_Regression", "Linear_Regression\Linear_Regression.vcxproj", "{E06F7185-31C3-438B-A568-82379E206A40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear_Regression_2", "Linear_Regression_2\Linear_Regression_2.vcxproj", "{6D4F9768-F838-4239-9DFC-D2B94C247E49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{5333C5D6-5840-4A7F-A274-42130E2C76F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06F7185-31C3-438B-A568-82379E206A40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E06F7185-31C3-438B-A568-82379E206A40}.Debug|Win32.Build.0 = Debug|Win32
+		{E06F7185-31C3-438B-A568-82379E206A40}.Release|Win32.ActiveCfg = Release|Win32
+		{E06F7185-31C3-438B-A568-82379E206A40}.Release|Win32.Build.0 = Release|Win32
+		{6D4F9768-F838-4239-9DFC-D2B94C247E49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D4F9768-F838-4239-9DFC-D2B94C247E49}.Debug|Win32.Build.0 = Debug|Win32
+		{6D4F9768-F838-4239-9DFC-D2B94C247E49}.Release|Win32.ActiveCfg = Release|Win32
+		{6D4F9768-F838-4239-9DFC-D2B94C247E49}.Release|Win32.Build.0 = Release|Win32
+		{5333C5D6-5840-4A7F-A274-42130E2C76F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5333C5D6-5840-4A7F-A274-42130E2C76F0}.Debug|Win32.Build.0 = Debug|Win32
+		{5333C5D6-5840-4A7F-A274-42130E2C76F0}.Release|Win32.ActiveCfg = Release|Win32
+		{5333C5D6-5840-4A7F-A274-42130E2C76F0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
